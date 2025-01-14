@@ -32,6 +32,8 @@ startxwin -- -listen tcp &
 xhost + 
 ~~~
 
+![](imagenes/3.png) 
+
 ![](imagenes/2.png)
 
 
@@ -49,7 +51,7 @@ sudo docker run -ti --rm \
 
 ~~~
 
-![](imagenes/3.png) 
+
 
 > __Explica el comando docker que has utilizado__
 
