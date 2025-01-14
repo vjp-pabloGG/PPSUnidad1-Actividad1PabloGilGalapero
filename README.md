@@ -22,6 +22,8 @@ sudo chown -R $(whoami) $HOME/docker/eclipse
 sudo chgrp -R $(whoami) $HOME/docker/eclipse
 ~~~
 
+![](imagenes/1.png)
+
 2. Configurar el entorno gráfico 
 
 ~~~
