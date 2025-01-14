@@ -32,6 +32,9 @@ startxwin -- -listen tcp &
 xhost + 
 ~~~
 
+![](imagenes/2.png)
+
+
 3. Lanzar el contenedor
 
 ~~~
