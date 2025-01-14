@@ -134,6 +134,11 @@ Con el botón Run compilamos
 
 >__Utiliza las herramientas de depuración de Eclipse o Netbeans para depurar el proyecto, y las diferentes extensiones para ver información, problemas, etc.__
 
+Con esta opción podremos depurar en código antes de ejecutarlo y compilarlo
+
+
+![](imagenes/16.png)
+
 Desde el terminal en la sección de problemas podremos ver las recomendaciones de las extensiones instaladas
 
 ![](imagenes/14.png)
