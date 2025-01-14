@@ -48,7 +48,8 @@ sudo docker run -ti --rm \
            dockeruc/eclipse	
 
 ~~~
- 
+
+![](imagenes/3.png) 
 
 > __Explica el comando docker que has utilizado__
 
