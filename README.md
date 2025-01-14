@@ -36,7 +36,6 @@ xhost +
 
 ![](imagenes/2.png)
 
-
 3. Lanzar el contenedor
 
 ~~~
@@ -95,6 +94,15 @@ SonarLint es una herramienta de análisis estático de código que ayuda a los d
 
 El entorno de desarrollo nos sirve para crear nuestras aplicaciones y además podemos comprobar los errores que tienen, problemas de seguridad, etc. por lo que desde allí vamos a poder corregirlos.
 >__Descarga el código fuente de un proyecto java o python: compila, enlaza y ejecutaló. Tienes algunos ejemplos en la carpeta Sources de este repositorio__
+
+Creamos un fichero con la extensión de python y el nombre que queramos darle.
+
+![](imagenes/10.png)
+
+Copiamos el código deseado dentro de archivo
+
+![](imagenes/11.png)
+
 >__Utiliza las herramientas de depuración de Eclipse o Netbeans para depurar el proyecto, y las diferentes extensiones para ver información, problemas, etc.__
 
 ---
