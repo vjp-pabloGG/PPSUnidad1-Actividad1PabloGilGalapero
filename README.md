@@ -103,7 +103,15 @@ Copiamos el código deseado dentro de archivo
 
 ![](imagenes/11.png)
 
+Con el botón Run compilamos
+
+![](imagenes/13.png)
+
 >__Utiliza las herramientas de depuración de Eclipse o Netbeans para depurar el proyecto, y las diferentes extensiones para ver información, problemas, etc.__
+
+Desde el terminal en la sección de problemas podremos ver las recomendaciones de las extensiones instaladas
+
+![](imagenes/14.png)
 
 ---
 ## ENTREGA
