@@ -77,9 +77,14 @@ Para la tarea utilizaré Visual Studio Code como entorno de programación y aña
 
 Checkstyle es una herramienta de análisis estático de código. Su principal objetivo es ayudar a los desarrolladores a cumplir con los estándares de codificación, asegurando que el código fuente siga un estilo consistente y se apliquen las mejores prácticas. 
 
+![](imagenes/8.png) 
+
 # 2. SonarLint 
 
 SonarLint es una herramienta de análisis estático de código que ayuda a los desarrolladores a identificar problemas de calidad y errores en tiempo real dentro de su entorno de desarrollo. Se integra con IDEs como IntelliJ IDEA, Eclipse y Visual Studio. Detecta problemas como bugs, vulnerabilidades de seguridad y malas prácticas de codificación.
+
+![](imagenes/9.png) 
+
 
 >__Instala los plugins y complementos que has encontrado. Además busca e instala los plugins Checkstyle y Sonar Lint.__
 
