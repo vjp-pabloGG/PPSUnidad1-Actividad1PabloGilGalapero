@@ -51,7 +51,7 @@ sudo docker run -ti --rm \
 
 ~~~
 
-
+![](imagenes/4.png)
 
 > __Explica el comando docker que has utilizado__
 
