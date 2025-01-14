@@ -53,7 +53,11 @@ sudo docker run -ti --rm \
 
 ![](imagenes/4.png)
 
+![](imagenes/5.png)
+
 > __Explica el comando docker que has utilizado__
+
+Con este comando docker vamos a lanzar un contenedor llamado eclipse.
 
 ## Instalar extensiones
 
