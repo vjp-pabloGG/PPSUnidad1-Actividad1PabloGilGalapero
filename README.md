@@ -67,9 +67,11 @@ Tenemos muchas extensiones, tanto para lenguajes de programación específicos c
 __Las siguientes operaciones las puedes hacer desde el entorno Eclipse que hemos creado o puedes utilizar el IDE que prefieras en tu equipo__
 >__Busca cuáles son las mejores extensiones de eclipse para programadores y las añades desde la tienda de tu IDE__
 
-Para la tarea utilizaré Visual Studio Code como entorno de programación y añadiré éstas extensiones
+Para la tarea utilizaré Visual Studio Code como entorno de programación y añadiré éstas extensiones:
 
 ![](imagenes/7.png)
+
+Desde el panel de la izquierda vamos a instalar todas las extensiones en el marketplace de Visual Studio
 
 >__ Busca y escribe para qué sirven estos plugins: Checkstyle, Sonar Lint.__
 
